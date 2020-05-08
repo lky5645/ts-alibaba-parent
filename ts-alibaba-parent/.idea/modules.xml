@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo-consumer-service/dubbo-consumer-service.iml" filepath="$PROJECT_DIR$/dubbo-consumer-service/dubbo-consumer-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider-service/dubbo-provider-api-service/dubbo-provider-api-service.iml" filepath="$PROJECT_DIR$/dubbo-provider-service/dubbo-provider-api-service/dubbo-provider-api-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider-service/dubbo-provider-impl-service/dubbo-provider-impl-service.iml" filepath="$PROJECT_DIR$/dubbo-provider-service/dubbo-provider-impl-service/dubbo-provider-impl-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-provider-service/dubbo-provider-service.iml" filepath="$PROJECT_DIR$/dubbo-provider-service/dubbo-provider-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-restful-consumer/nacos-restful-consumer.iml" filepath="$PROJECT_DIR$/nacos-restful-consumer/nacos-restful-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nacos-restful-provider/nacos-restful-provider.iml" filepath="$PROJECT_DIR$/nacos-restful-provider/nacos-restful-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-security-parent/spring-security-parent.iml" filepath="$PROJECT_DIR$/spring-security-parent/spring-security-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ts-alibaba-parent.iml" filepath="$PROJECT_DIR$/ts-alibaba-parent.iml" />
+    </modules>
+  </component>
+</project>

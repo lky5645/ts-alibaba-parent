@@ -1,0 +1,21 @@
+server:
+  port: 11100
+spring:
+  application:
+    name: dubbo-provider-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+dubbo:
+  #扫描包
+  scan:
+    base-packages: com.ts.dubbo.impl.service
+  protocol:
+    name: dubbo
+    port: 20891
+  registry:
+    address: nacos://localhost:8848
+  application:
+    #dubbo运维是否开启
+    qos-enable: false

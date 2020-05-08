@@ -1,0 +1,9 @@
+server:
+  port: 11101
+spring:
+  application:
+    name: dubbo-consumer-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848

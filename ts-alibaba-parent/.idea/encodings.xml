@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-consumer-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-producer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider-service/dubbo-provider-api-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/dubbo-provider-service/dubbo-provider-impl-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-restful-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/nacos-restful-provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-security-parent" charset="UTF-8" />
+  </component>
+</project>

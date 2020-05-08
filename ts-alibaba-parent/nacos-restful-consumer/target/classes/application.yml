@@ -1,0 +1,10 @@
+server:
+  port: 11002
+service-url: localhost:11001
+spring:
+  application:
+    name: consumer-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848

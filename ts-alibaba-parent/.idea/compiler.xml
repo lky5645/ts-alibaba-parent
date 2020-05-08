@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-consumer-service" />
+        <module name="dubbo-demo" />
+        <module name="dubbo-provider-api-service" />
+        <module name="dubbo-provider-impl-service" />
+        <module name="dubbo-service-api" />
+        <module name="nacos-restful-consumer" />
+        <module name="nacos-restful-provider" />
+        <module name="spring-security-parent" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo-api" target="1.8" />
+      <module name="dubbo-consumer" target="1.8" />
+      <module name="dubbo-consumer-service" target="1.8" />
+      <module name="dubbo-demo" target="1.8" />
+      <module name="dubbo-producer" target="1.8" />
+      <module name="dubbo-provider-api-service" target="1.8" />
+      <module name="dubbo-provider-impl-service" target="1.8" />
+      <module name="dubbo-provider-service" target="1.8" />
+      <module name="dubbo-service-api" target="1.8" />
+      <module name="nacos-restful-consumer" target="1.8" />
+      <module name="nacos-restful-provider" target="1.8" />
+      <module name="spring-security-parent" target="1.8" />
+      <module name="ts-alibaba-parent" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
